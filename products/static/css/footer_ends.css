@@ -1,0 +1,7 @@
+div#end_footer {
+    background-color: #131A22;
+}
+
+div#end_footer a, a:hover {
+    color: white;
+}

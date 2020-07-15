@@ -1,0 +1,20 @@
+div#mid_footer {
+    background-color: #232F3E;
+    padding: 1px 0px 0px 0px;
+}
+
+div.col-md-2, div.col-md-3, div.col-md-4 {
+    color: white;
+}
+
+div.col-md-2 a, a:hover {
+    color: white;
+}
+
+div.col-md-3 a, a:hover {
+    color: white;
+}
+
+div.col-md-4 .fa {
+  width: 15px;
+}

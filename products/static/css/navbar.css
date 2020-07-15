@@ -1,0 +1,26 @@
+nav.mb-1 {
+    background-color: #232F3E;
+}
+
+#dropdown_items, #navbarDropdownMenuLink-555 {
+    font-size: 1.3em;
+}
+
+#profile_pic {
+    height: 40px;
+    width: 40px;
+}
+
+.input-group.md-form.form-sm.form-2 input {
+  border: 1px solid #ffca28;
+  border-top-left-radius: 0.25rem;
+  border-bottom-left-radius: 0.25rem;
+}
+
+.input-group.md-form.form-sm.form-2 input.amber-border {
+  border: 3px solid #ffca28;
+}
+
+span#basic-text1 {
+    background-color: #ffca28;
+}
